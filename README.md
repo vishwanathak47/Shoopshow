@@ -1,2 +1,2 @@
-# Shoopshow
+# Shopshow
 E-commerce website
